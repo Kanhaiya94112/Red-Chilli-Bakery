@@ -25,3 +25,9 @@ body {
 .footer-text {
   text-align: center !important;
 }
+
+.album-color-up h1 {
+  font-family: "Caveat", cursive;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Pacifico", cursive;
+}
