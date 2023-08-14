@@ -31,3 +31,12 @@ body {
   font-family: "Libre Baskerville", serif;
   font-family: "Pacifico", cursive;
 }
+
+.carousel-item-class {
+  height: 80vh;
+}
+
+.img-cls {
+  height: 90%;
+  width: 100%;
+}
