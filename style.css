@@ -1,0 +1,27 @@
+body {
+  background-color: #f65a83 !important;
+}
+.header-color {
+  background-color: #f37878 !important;
+}
+.nav-link {
+  background-color: blue;
+  color: white;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.album-color-up {
+  background-color: #f65a83;
+}
+.album-color-down {
+  background-color: #ff87b2 !important;
+}
+
+.footer-text {
+  text-align: center !important;
+}
